@@ -12,7 +12,7 @@
 <br />
 <br />
 <br />
-· Project title (Number guessing game, random picked from the computer)
+· Project title (Console based number guessing game, random picked from the computer)
 
 · Solution (Simple constructed game with Loops,Conditional statements)
 
@@ -22,3 +22,4 @@
 
 ![Screenshot 2024-09-28 123613](https://github.com/user-attachments/assets/44a648ea-0d26-4dff-85f5-963316336aa5)
 
+## Sample Documentation
