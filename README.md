@@ -1,2 +1,2 @@
 # GuessANumber
-Simple console game.
+Simple console game..
