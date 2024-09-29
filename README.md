@@ -23,9 +23,10 @@
 ![Screenshot 2024-09-28 123613](https://github.com/user-attachments/assets/44a648ea-0d26-4dff-85f5-963316336aa5)
 
 ## Sample Documentation
-
+<br />
 ![1692534307732_259450392f7304e5a00aa6b266624803](https://github.com/user-attachments/assets/73f4bc94-e00e-44e8-a824-97ac4cbbe175)
-
+<br />
+<br />
 The game is two-person game called "Guess the Number". 
 
 The first player thinks of an integer within a known range. The second player tries to guess the number. 
