@@ -24,7 +24,7 @@
 
 ## Sample Documentation
 <br />
-![1692534307732_259450392f7304e5a00aa6b266624803](https://github.com/user-attachments/assets/73f4bc94-e00e-44e8-a824-97ac4cbbe175)
+(https://github.com/user-attachments/assets/73f4bc94-e00e-44e8-a824-97ac4cbbe175)
 <br />
 <br />
 The game is two-person game called "Guess the Number". 
