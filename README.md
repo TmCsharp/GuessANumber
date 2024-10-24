@@ -2,7 +2,6 @@
 ## The next update will be contain:
 <br />
 <br />
-### · logic for difficulty, so the player can have only a few tries to guess the number.
 
 ### · automatically restart the game after it is finished (or ask the player to play again).
 
