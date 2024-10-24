@@ -1,12 +1,4 @@
 # GuessANumber
-## The next update will be contain:
-<br />
-<br />
-
-### · Can add levels so every time when the player guesses the number, the range between the minimum and maximum number gets bigger e. g. Level 1 (1 - 100), Level 2 (1-200) etc.
-
-### · Can add anything else to code, based on own ideas.
-<br />
 <br />
 <br />
 · Project title (Console based number guessing game, random picked from the computer)
