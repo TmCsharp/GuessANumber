@@ -7,7 +7,7 @@
 
 · Source code link ([Here](https://github.com/TmCsharp/GuessANumber/blob/master/GuessANumber.cs))
 
-· Screenshots (Down)
+· Screenshots (↴)
 
 ![Screenshot 2024-09-28 123613](https://github.com/user-attachments/assets/44a648ea-0d26-4dff-85f5-963316336aa5)
 
