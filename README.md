@@ -31,3 +31,4 @@ The second player's score equals the number of guesses he made.
 The players then reverse their roles and repeat the game. 
 
 The winner is the player who gets the correct answer with the fewest guesses.
+
