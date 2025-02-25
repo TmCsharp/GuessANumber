@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace GuessANumberGame
 {
     internal class GuessANumber
